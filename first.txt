@@ -1,2 +1,2 @@
-let's be uber super cool ... !!!
+let's be uber super cool ... !!! Hope this will merge in my branch without any merge conflict :)
 wow ... this looks soooooo complex ...
