@@ -1,4 +1,4 @@
 let's be uber super cool ... !!! Hope this will merge in my branch without any merge conflict :)
 wow ... this looks soooooo complex ...
-line 1 to merge in mybranch2
+line 1 to merge in mybranch2 ..|..
 
